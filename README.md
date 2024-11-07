@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/luiz eduardo serafim costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz eduardo serafim costa" height="30" width="40" /></a>
 <a href="https://instagram.com/theluizeduardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theluizeduardo" height="30" width="40" /></a>
 <a href="https://www.behance.net/luizeduardokosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="luizeduardokosta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/l3zc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l3zc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/L3ZC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l3zc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
