@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Uniesp_Fend](https://github.com/Luizcostadev/uniesp_fend_20242)
 
-- 🌱 I’m currently learning **Python,HTML,CSS**
+- 🌱 I’m currently learning **Python,HTML,CSS,Java**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/luizeduardokosta](https://www.behance.net/luizeduardokosta)
 
