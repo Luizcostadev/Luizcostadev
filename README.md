@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **luiz.costa17@outlook.com**
 
-- ⚡ Fun fact **Gym-rat that loves computers,cats,and a lot I mean a lot of music**
+- ⚡ Fun fact **Gym-rat that loves computers,cats and a lot of music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
