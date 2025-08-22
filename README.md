@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Luiz Eduardo</h1>
+<h1 align="center">Hey 👋🏻, I'm Luiz Eduardo</h1>
 <h3 align="center">Advertisermen,Graphic Designer and now a Computer Science student. From João Pessoa to the world!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizcostadev&label=Profile%20views&color=0e75b6&style=flat" alt="luizcostadev" /> </p>
