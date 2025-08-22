@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizcostadev&label=Profile%20views&color=0e75b6&style=flat" alt="luizcostadev" /> </p>
 
-- 🔭 I’m currently working on [Uniesp_Fend](https://github.com/Luizcostadev/uniesp_fend_20242)
+- 🔭 I’m currently working on [Bola_8](https://github.com/Luizcostadev/Bola_8)
 
-- 🌱 I’m currently learning **Python,HTML,CSS,Java,JavaScript**
+- 🌱 I’m currently learning **Python,HTML,CSS,Java,JavaScript,SQL**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/luizeduardokosta](https://www.behance.net/luizeduardokosta)
 
 - 📫 How to reach me **luiz.costa17@outlook.com**
 
-- ⚡ Fun fact **Gym-rat that loves computers,cats and a lot of music**
+- ⚡ Fun fact **Gym-rat that loves computers,cats and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
