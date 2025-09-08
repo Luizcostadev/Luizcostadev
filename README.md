@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizcostadev&label=Profile%20views&color=0e75b6&style=flat" alt="luizcostadev" /> </p>
 
-- 🔭 I’m currently working on [Bola_8](https://github.com/Luizcostadev/Bola_8)
+- 🔭 I’m currently working on [Projeto Fraganica](https://github.com/Luizcostadev/fragrancIA-site)
 
 - 🌱 I’m currently learning **Python,HTML,CSS,Java,JavaScript,SQL**
 
