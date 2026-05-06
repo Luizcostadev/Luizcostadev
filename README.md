@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Projeto Fragancia](https://github.com/Luizcostadev/fragrancIA-site)
 
-- 🌱 I’m currently learning **Python,HTML,CSS,Java,JavaScript,SQL**
+- 🌱 I’m currently learning **Python,HTML,CSS,Java,JavaScript,SQL**,**SpringBoot**,**React**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/luizeduardokosta](https://www.behance.net/luizeduardokosta)
 
